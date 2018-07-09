@@ -1,6 +1,8 @@
 import React from "react";
 import styled from "styled-components";
-import myPic from "../images/myPic.jpg";
+
+const myPic =
+  "https://rawgit.com/ATwrx/newPortfolioReact/c081f136e12c1e448d57d3b00919a0ed020f41f2/src/images/myPic.jpg";
 
 const AboutWrapper = styled.div`
   display: grid;
